@@ -11,7 +11,7 @@
 
 [<img align="left" alt="alexgodfrey.com" width="22px" target="_blank" src="./web.svg" />][website]
 [<img align="left" alt="Alex Godfrey | LinkedIn" target="_blank" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="alexjamesgodfrey | Instagram" target="_blank" width="22px" src="./insta.svg" />][instagram]
+[<img style={{marginTop: '4px'}} align="left" alt="alexjamesgodfrey | Instagram" target="_blank" width="22px" src="./insta.svg" />][instagram]
 [<img align="left" alt="agod1373 | Chess.com" target="_blank" width="22px" src="./chess.svg" />][chess]
 
 <br />
