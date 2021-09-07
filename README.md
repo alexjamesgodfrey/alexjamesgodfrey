@@ -5,13 +5,11 @@
 [<img align="left" alt="alexjamesgodfrey | Instagram" target="_blank" width="24px" src="./insta.svg" />][instagram]
 [<img align="left" alt="agod1373 | Chess.com" target="_blank" width="23px" src="./chess.svg" />][chess]
 
+<br />
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing-lovat-eight.vercel.app/api/spotify)](https://open.spotify.com/user/agod1373)
-
-
-<br />
 
 [website]: https://alexgodfrey.com
 [instagram]: https://instagram.com/alexjamesgodfrey
