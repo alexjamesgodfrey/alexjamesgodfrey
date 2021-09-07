@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex, a freshman at Cornell University
 
-[<img align="left" alt="Alex Godfrey | LinkedIn" target="_blank" width="100px" src="https://img.shields.io/website?label=alexgodfrey.com&style=for-the-badge&url=https%3A%2F%2Falexgodfrey.com)"/>][website]
+[<img align="left" alt="Alex Godfrey | Website" target="_blank" width="150px" src="https://img.shields.io/website?label=alexgodfrey.com&style=for-the-badge&url=https://alexgodfrey.com"/>][website]
 [<img align="left" alt="Alex Godfrey | LinkedIn" target="_blank" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="alexjamesgodfrey | Instagram" target="_blank" width="24px" src="./insta.svg" />][instagram]
 [<img align="left" alt="agod1373 | Chess.com" target="_blank" width="23px" src="./chess.svg" />][chess]
