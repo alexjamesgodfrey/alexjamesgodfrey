@@ -10,10 +10,6 @@
 
 [![Spotify](https://spotify-now-playing-lovat-eight.vercel.app/api/spotify)](https://open.spotify.com/user/agod1373)
 
-### Connect with me:
-
-[<img align="left" alt="alexgodfrey.com" width="24px" target="_blank" src="./web.svg" />][website]
-
 
 <br />
 
