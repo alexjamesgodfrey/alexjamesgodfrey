@@ -13,6 +13,5 @@
 [![Spotify](https://spotify-now-playing-lovat-eight.vercel.app/api/spotify)](https://open.spotify.com/user/agod1373)
 
 [website]: https://alexgodfrey.com
-[instagram]: https://instagram.com/alexjamesgodfrey
 [linkedin]: https://www.linkedin.com/in/alex-godfrey-91a7251b1/
 [chess]: https://www.chess.com/member/agod1373
