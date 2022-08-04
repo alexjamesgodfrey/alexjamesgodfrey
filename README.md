@@ -1,4 +1,4 @@
-### Hi there, I'm Alex, a freshman at Cornell University
+### A sophomore at Cornell University
 
 <!---
 [<img align="left" alt="Alex Godfrey | Website" target="_blank" width="145px" src="https://img.shields.io/website?label=alexgodfrey.com&style=for-the-badge&url=https://alexgodfrey.com"/>][website]
