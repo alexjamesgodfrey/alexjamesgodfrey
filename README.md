@@ -1,6 +1,6 @@
 ## I'm Alex, a sophomore at Cornell University
 
-## Studyflow
+### Studyflow
 
 <p>Studyflow started in the summer of 2021. I was trying to make my studying more efficient before I went off to college. I used a service called <a href="https://www.make.com/en" target="_blank">Integromat (now Make)</a> to automate my "Studyflow". The original studyflow was taking a note in <a>Notability</a>, automatically backing it up to <a>Google Drive</a>, creating a active recall template in <a>Notion</a>, and creating scheduled review tasks in <a>Todoist</a>.</p>
 <p>This worked really well for me, so I wanted to share it. I made Studyflow 0, a web app that replaced Integromat during my winter break. I used it to great success with my friend Charles in the following semester. Well, he wanted to share it too.</p>
@@ -9,6 +9,14 @@
 
 <a href="http://alexgodfrey.com"><img src="https://img.shields.io/website?label=studyflow.ai&style=for-the-badge&url=https://studyflow.ai"></a>
 [<img align="left" alt="Alex Godfrey | Studyflow" target="_blank" width="31px" src="./logo.svg" />][studyflow]
+
+### Blossom
+
+<p>Coming soon</p>
+
+### Nectar
+
+<p>Coming soon</p>
 
 ### Here are some of my socials
 
