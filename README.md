@@ -8,7 +8,7 @@
 <p>Charles and I coded Studyflow 1.0 in the summer of 2022. I had about two years of web dev experience, him none at all. I helped him learn frontend as I was picking up Prisma, and GraphQL to serve the backend. Studyflow is written in Typescript, and uses NextJS, Prisma, and GraphQL frameworks to create a blazing fast and modern user experience. While Studyflow is currently in open beta, the code is not yet publicly available.</p>
 
 <a href="http://alexgodfrey.com"><img src="https://img.shields.io/website?label=studyflow.ai&style=for-the-badge&url=https://studyflow.ai"></a>
-[<img align="left" alt="Alex Godfrey | Studyflow" target="_blank" width="28px" src="./logo.svg" />][studyflow]
+[<img align="left" alt="Alex Godfrey | Studyflow" target="_blank" width="31px" src="./logo.svg" />][studyflow]
 
 ### Here are some of my socials
 
