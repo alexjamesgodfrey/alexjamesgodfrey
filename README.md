@@ -8,7 +8,7 @@
 
 <br />
 
-### Spotify Playing 🎧
+### What I just listened to
 
 [![Spotify](https://spotify-now-playing-lovat-eight.vercel.app/api/spotify)](https://open.spotify.com/user/agod1373)
 
