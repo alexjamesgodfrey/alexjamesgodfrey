@@ -1,4 +1,4 @@
-## I'm Alex, a sophomore at Cornell University <a href="http://alexgodfrey.com"><img style="float: right;" src="https://img.shields.io/website?label=alexgodfrey.com&style=for-the-badge&url=https://alexgodfrey.com"></a>
+## I'm Alex, a sophomore at Cornell University
 
 ## Studyflow
 
