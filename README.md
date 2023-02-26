@@ -5,7 +5,7 @@
 <p>Introducing the world's first word book count API. Anyone can contribute their ebook files for Bookwords analysis and public use!</p>
 <p><strong>Expected launch: March 2023</strong></p>
 
-### Studyflow
+<h3><a target="_blank" href="https://studyflow.ai">Studyflow</a></h3>
 
 <p>Studyflow started in the summer of 2021. I was trying to make my studying more efficient before I went off to college. I used a service called <a href="https://www.make.com/en" target="_blank">Integromat (now Make)</a> to automate my "Studyflow". The original studyflow was taking a note in <a href="https://notability.com/" target="_blank">Notability</a>, automatically backing it up to <a href="https://www.google.com/drive/" target="_blank">Google Drive</a>, creating a active recall template in <a href="https://www.notion.so/" target="_blank">Notion</a>, and creating scheduled review tasks in <a href="https://todoist.com/" target="_blank">Todoist</a>.</p>
 <p>This worked really well for me, so I wanted to share it. I made Studyflow 0, a web app that replaced Integromat during my winter break. I used it to great success with my friend Charles in the following semester. Well, he wanted to share it too. <b>But what if we could make all these features in one app, instead of 3? Also, these mega-companies don't make money off students. They focus on selling to firms.</b></p>
