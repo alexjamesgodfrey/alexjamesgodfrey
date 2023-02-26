@@ -1,6 +1,6 @@
 ## I'm Alex, a second-year at Cornell University studying Math, CS, and philosophy.
 
-### Bookwords
+<h3 target="_blank" href="https://bookwords.org"><a>Bookwords</a></h3>
 
 <p>Introducing the world's first word book count API. Anyone can contribute their ebook files for Bookwords analysis and public use!</p>
 <p><strong>Expected launch: March 2023</strong></p>
