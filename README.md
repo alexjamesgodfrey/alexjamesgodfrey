@@ -3,7 +3,7 @@
 <h3><a target="_blank" href="https://bookwords.org">Bookwords</a></h3>
 
 <p>Introducing the world's first word book count API. Anyone can contribute their ebook files for Bookwords analysis and public use!</p>
-<p><strong>Expected launch: January 2024</strong></p>
+<p><strong>Expected launch: April 2024</strong></p>
 
 ### Blossom
 
