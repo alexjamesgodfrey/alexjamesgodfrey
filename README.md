@@ -1,4 +1,4 @@
-## I'm Alex, a builder ~~third-year at Cornell University studying Math, CS, and neuroscience~~.
+## I'm Alex, a **builder** ~~third-year at Cornell University studying Math, CS, and neuroscience~~.
 
 <h3><a target="_blank" href="https://121health.app">121 Health</a></h3>
 
