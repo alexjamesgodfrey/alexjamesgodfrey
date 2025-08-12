@@ -1,7 +1,7 @@
 ## Hi, I'm Alex 👋 😸
 
-<p>Codepoint Fellow @ Sutter Hill Ventures</p>
-<p>CS, Math, & Neuroscience @ Cornell</p>
+<p>Currently Codepoint Fellow @ Sutter Hill Ventures</p>
+<p>Prev CS, Math, & Neuroscience @ Cornell</p>
 
 ### Socials
 
