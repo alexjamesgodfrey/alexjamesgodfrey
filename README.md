@@ -1,4 +1,4 @@
-## I'm Alex, a **builder** ~~third-year at Cornell University studying Math, CS, and neuroscience~~.
+## I'm Alex 😸
 
 <p>Codepoint Fellow @ Sutter Hill Ventures</p>
 <p>CS, Math, & Neuroscience @ Cornell</p>
