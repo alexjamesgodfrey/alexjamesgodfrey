@@ -1,7 +1,7 @@
 ## I'm Alex, a **builder** ~~third-year at Cornell University studying Math, CS, and neuroscience~~.
 
-<h3>Codepoint Fellow @ Sutter Hill Ventures/h3>
-<h3>CS, Math, & Neuroscience @ Cornell</h3>
+<p>Codepoint Fellow @ Sutter Hill Ventures</p>
+<p>CS, Math, & Neuroscience @ Cornell</p>
 
 ### Socials
 
