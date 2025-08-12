@@ -1,4 +1,4 @@
-## I'm Alex 😸
+## Hi, I'm Alex 👋 😸
 
 <p>Codepoint Fellow @ Sutter Hill Ventures</p>
 <p>CS, Math, & Neuroscience @ Cornell</p>
