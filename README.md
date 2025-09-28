@@ -1,6 +1,6 @@
 ## Hi, I'm Alex 👋 😸
 
-<p>Currently Codepoint Fellow @ Sutter Hill Ventures</p>
+<p>Currently Product Team @ Sutter Hill Ventures</p>
 <p>Prev CS, Math, & Neuroscience @ Cornell</p>
 
 [<img align="left" alt="Alex Godfrey | LinkedIn" target="_blank" width="22px" src="./linkedin.svg" />][linkedin]
