@@ -1,7 +1,7 @@
 ## hi, I'm Alex 👋 😸
 
 <p>mots @ shv</p>
-<p>prev software @ [integratedbio](https://github.com/integratedbio) cs/math/neuro @ cornell</p>
+<p>prev software @ <a href="https://github.com/integratedbio">integratedbio</a>, cs/math/neuro @ cornell</p>
 
 [<img align="left" alt="Alex Godfrey | LinkedIn" target="_blank" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="agod1373 | Chess.com" target="_blank" width="23px" src="./chesscom.png" />][chesscom]
